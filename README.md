@@ -35,7 +35,5 @@ It uses store location, category, ratings, and number of reviews to provide reco
 
 ## How to Run
 
-1. Clone this repository.
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+1. Follow the instructions and run the file below 
+2. Store Recommendation System with Analytics and Interactive Map Visualization_1.ipynb
