@@ -1,4 +1,4 @@
-# Store-Recommendation-System-Atlanta-GA
+# Store-Recommendation-System-Atlanta-GA (with Analytics and Interactive Map Visualization)
 Interactive store recommendation system with analytics, clustering, and map visualizations.
 
 Tech Stack:
